@@ -1,0 +1,10 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center ;
+    box-shadow:0 0 8px rebeccapurple;
+    padding: 1rem;
+    width: 100%;
+    gap:1rem;   
+}

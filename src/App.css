@@ -1,0 +1,24 @@
+*,*::after,*::before{
+    font-size: 1.2rem;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
+.flex-c{
+    flex-direction: column;
+}
+.align-center{
+    align-items: center;
+}
+.justify{
+    justify-content: center;
+}
+.g-1{
+    gap:1rem;
+}
+
